@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bernal;Alberto;;;
+FN:Alberto Bernal
+ORG:Fantastic Floors
+TITLE:Salesman
+TEL;TYPE=CELL:(913) 426-8795
+TEL;TYPE=WORK:(913) 538-7173
+EMAIL;TYPE=WORK:albert@fantasticfloorskc.com
+URL:https://www.fantasticfloorsks.com
+ADR;TYPE=WORK:;;1370 N Winchester St;Olathe;KS;66061;USA
+NOTE:We're All You Need | Olathe's Preferred Family-Owned Flooring and Remodeling Partner Since 2017
+END:VCARD
